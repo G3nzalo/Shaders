@@ -1,4 +1,4 @@
-# Shaders
+# Fragment Shaders
 
 Examples of shaders for visuals . 
 * GLSL (I recommend using KodeLife)
