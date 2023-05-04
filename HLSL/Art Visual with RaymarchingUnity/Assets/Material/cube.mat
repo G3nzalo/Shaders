@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: cube
+  m_Shader: {fileID: 4800000, guid: 3ece06650fcbc414fac969747eb1eff4, type: 3}
+  m_ValidKeywords: []
+  m_InvalidKeywords:
+  - _ZWRITE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Ints: []
+    m_Floats:
+    - _BlendDst: 10
+    - _BlendSrc: 5
+    - _Blue: 0.5
+    - _Cull: 0
+    - _DistanceMultiplier: 0.87
+    - _Glossiness: 0
+    - _Green: 0.4
+    - _Iterations: 2.6
+    - _Loop: 32
+    - _Metallic: 0
+    - _MinDistance: 0.072
+    - _NormalDelta: 0.00001
+    - _Red: 0.9
+    - _RotAngle: 38
+    - _RotX: -0.66
+    - _RotY: 0.058
+    - _RotZ: 0.85
+    - _Scale: 1.02
+    - _ShadowExtraBias: 0.033
+    - _ShadowLoop: 34
+    - _ShadowMinDistance: 0.042
+    - _ZWrite: 1
+    m_Colors:
+    - _Color: {r: 0.8301887, g: 0.7636169, b: 0.7636169, a: 1}
+  m_BuildTextureStacks: []
